@@ -1,10 +1,17 @@
+---
+# Postwave - Personalized Email Automation Tool
 ![Newpostwave](https://github.com/user-attachments/assets/626a5840-64b2-4d94-89ff-e09acc6f1263)
 
----
-
-# Postwave - Personalized Email Automation Tool
-
 **Postwave** is a powerful, desktop-based email automation tool designed to streamline the process of sending personalized, large-scale email campaigns with attachments. Built with **Python** and using **CustomTkinter** for a modern and user-friendly GUI, Postwave combines technical efficiency with simplicity for end-users who want a no-code solution for automating email workflows.
+
+## Login Interface
+![1](https://github.com/user-attachments/assets/68c78cf3-62ca-43e4-8c69-4a8edff26a8b)
+## Main Dashboard Overview
+![2](https://github.com/user-attachments/assets/9a93beaf-c51b-447c-a046-70755f552036)
+## Example of a Personalized Email Received
+![output](https://github.com/user-attachments/assets/758f5b75-955b-4280-8cde-cf798bf1323d)
+## Sample Excel Data
+![1](https://github.com/user-attachments/assets/a45bd3b6-0b02-4135-8c09-a061cf8c0a73)
 
 ## Key Features
 
